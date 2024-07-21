@@ -2,9 +2,6 @@
 
 This repository contains two distinct music generation projects:
 
-ABC Notation Music Generator
-Spectrogram-based Hip Hop Instrumental Generator
-
 1. ABC Notation Music Generator
 This project uses a deep learning model to generate music in ABC notation format, which is commonly used for folk and traditional music.
 Features
