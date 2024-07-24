@@ -4,7 +4,7 @@ This repository contains two distinct music generation projects:
 
 1. ABC Notation Music Generator
 This project uses a deep learning model to generate music in ABC notation format, which is commonly used for folk and traditional music.
-Features
+
 
 Generates ABC notation for musical pieces
 Uses a Recurrent Neural Network (RNN) architecture
@@ -14,7 +14,7 @@ Results: Altough we managed to produce a musical output, it was hard to have a n
 
 2. Spectrogram-based Hip Hop Instrumental Generator
 This project uses mel spectrograms to generate hip hop instrumentals, employing a deep learning model to continue a given audio input.
-Features
+
 
 Generates continuation of hip hop instrumentals
 Uses mel spectrograms for audio representation
